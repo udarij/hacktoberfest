@@ -2438,3 +2438,8 @@ Noida
 -Bio: Undergraduate student of MIS
 - Github:[Hasini Uththara] https://github.com/HasiniUththara
 
+
+#### Name: [Jayashi Karunakalage](https://github.com/udarij)
+-Place: Sri Lanka
+-Bio: Undergraduate student of MIS
+- Github:[Jayashi Karunakalage] https://github.com/udarij

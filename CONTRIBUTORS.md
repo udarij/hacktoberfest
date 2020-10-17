@@ -2432,3 +2432,9 @@ Noida
 -Place: Sri Lanka
 -Bio: Undergraduate student of software engineering
 - Github: [Tilan Hettiarachchi](https://github.com/Tilanmoksara96)
+
+#### Name: [Hasini Uththara](https://github.com/HasiniUththara)
+-Place: Sri Lanka
+-Bio: Undergraduate student of MIS
+- Github:[Hasini Uththara] https://github.com/HasiniUththara
+
